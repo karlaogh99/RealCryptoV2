@@ -27,18 +27,6 @@
 
 ---
 
-## 🧠 What You’ll Learn
-
-This project helps you understand:
-
-- How to extend ERC20 functionality
-- How to use structs and timestamps
-- How to implement staking logic without external contracts
-- How to enforce behavior using activity tracking
-- How to reward or penalize users automatically
-
----
-
 ## 🛠️ Tech Stack
 
 - **Solidity v0.8.24**
